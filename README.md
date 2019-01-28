@@ -33,4 +33,4 @@ Query Parameters:
 
 - offset [Number]. Setting the offset of the albums to get
 - limit [Number]. Setting to get this máximum number of albums in each query.
-- one_by_one: if it is specified with any value (the value does not matter, it is only importante if the parameter is in the query or not) then the algorithm will do a query for each album for getting the release count. If it is not present then the release count is get using the query for getting all releases.
+- one_by_one: if it is specified with any value (the value does not matter, it is only important if the parameter is in the query or not) then the algorithm will do a query for each album for getting the release count. If it is not present then the release count is gotten using the query for getting all releases.
