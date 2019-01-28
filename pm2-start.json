@@ -1,0 +1,9 @@
+{
+  "name": "bmattest",
+  "script": "app.js",
+  "instances": "2",
+  "env": {
+    "PORT": 8080,
+    "NODE_ENV": "local"
+  }
+}
