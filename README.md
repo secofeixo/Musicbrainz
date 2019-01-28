@@ -1,4 +1,4 @@
-# BMAT TEST
+# Musicbrainz TEST
 
 This project connects to musicbrainz API for getting all the albums with the number of raleases for each album of an artist.
 It uses the next API of musicbrainz:
