@@ -1,7 +1,7 @@
 {
-  "name": "gs-saas",
+  "name": "musicbrainz",
   "version": "0.0.1",
-  "description": "REST API for Goldenspear SAAS services",
+  "description": "Test using Musicbrainz api",
   "main": "app.js",
   "directories": {
     "test": "tests"
@@ -20,7 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/goldenspear_dev/gs-ets.git"
+    "url": "git+ssh://git@github.com:secofeixo/Musicbrainz.git"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
